@@ -49,6 +49,7 @@ export default function App() {
   return (
     <div>
       <div className="d-flex">
+        <h1>React App Check</h1>
         <label>
           <input
             type="checkbox"
